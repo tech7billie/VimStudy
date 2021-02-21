@@ -150,3 +150,11 @@ vim 공식 튜토리얼 vimtutor 요약 모음
 
   다음 번에 빔을 시작하면, 구문 강조(syntax highlighting)이 사용될 것입니다.   
   모든 원하는 설정을 이 "vimrc" 파일에 넣어둘 수 있습니다.   
+  
+  
+  ### Extras
+  ```
+ :e file.txt file.txt파일을 불러옴
+ :e 현재 파일을 불러옴
+ :e# 바로 이전에 열었던 파일을 불러 옴
+ ```
